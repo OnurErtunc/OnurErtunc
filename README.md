@@ -10,7 +10,7 @@ While I have been involved in the development of several web applications, my cu
 
 To stay connected with my journey and explore my projects, please feel free to visit my GitHub. I am always open to collaboration, feedback, and new opportunities to contribute to meaningful projects in software development, AI, and ML.
 
-You can check my activities on GitHub, GitLab, and LinkedIn via the links provided in my bio.
+You can also check my activities in GitLab, and LinkedIn via the links provided in my bio.
 
 <!--
 **OnurErtunc/OnurErtunc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
