@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 I am Onur Ertunc, a Senior Computer Science student at Bilkent University. I have a passion for technology and  and have developed a strong interest in software development, as well as a growing curiosity about computer architecture. I am also keen to explore the fields of Artificial Intelligence and Machine Learning.
 
