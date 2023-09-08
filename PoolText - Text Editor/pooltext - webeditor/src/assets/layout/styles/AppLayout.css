@@ -1,0 +1,9 @@
+.layout {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Ensures the layout covers the full viewport height */
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: #F5F5F5;
+  }
+  

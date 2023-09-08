@@ -1,0 +1,93 @@
+$primaryColor: #2196F3;
+$primaryDarkColor: #1E88E5;
+$primaryDarkerColor: #1976D2;
+$primaryTextColor: #ffffff;
+
+$colors: (
+    "blue": #2196F3,
+    "green": #4caf50,
+    "yellow": #FBC02D,
+    "cyan": #00BCD4,
+    "pink": #E91E63,
+    "indigo": #3F51B5,
+    "teal": #009688,
+    "orange": #F57C00,
+    "bluegray": #607D8B,
+    "purple": #9C27B0,
+    "red": #dc3545,
+    "primary": $primaryColor
+);
+
+// Mandatory Designer Variables
+@import './variables/general';
+@import './variables/form';
+@import './variables/button';
+@import './variables/panel';
+@import './variables/_data';
+@import './variables/_overlay';
+@import './variables/_message';
+@import './variables/_menu';
+@import './variables/_media';
+@import './variables/_misc';
+
+
+//reused color variables
+$shade000:transparent!default;    //surface
+$shade100:rgba(68, 72, 109, 0.07) !default;    //Alpha - 01
+$shade200:rgba(68, 72, 109, 0.12) !default;    //Alpha - 02
+$shade300:rgba(68, 72, 109, 0.17) !default;    //Alpha - 03
+$shade400:rgba(255, 255, 255, 0.9) !default;    //CardBg
+$shade500:#8A8EA6 !default;    //text third color
+$shade600:#676B89 !default;    //text secondary color
+$shade700:#44486D !default;    //text color
+
+
+
+:root {
+    --surface-a:#{$shade000};
+    --surface-b:#{$shade100};
+    --surface-c:#{$shade200};
+    --surface-d:#{$shade300};
+    --surface-e:#{$shade400};
+    --surface-f:#{$shade500};
+    --text-color:#{$shade700};
+    --text-color-secondary:#{$shade600};
+    --primary-color:#{$primaryColor};
+    --primary-color-text:#{$primaryTextColor};
+    --font-family:#{$fontFamily};
+    --surface-0: #ffffff;
+    --surface-50: #e1e2e8;
+    --surface-100: #cbccd6;
+    --surface-200: #b4b6c5;
+    --surface-300: #9ea0b3;
+    --surface-400: #878aa2;
+    --surface-500: #717490;
+    --surface-600: #5a5e7f;
+    --surface-700: #44486d;
+    --surface-800: #3c3f60;
+    --surface-900: #343753;
+    --gray-50: #e1e2e8;
+    --gray-100: #cbccd6;
+    --gray-200: #b4b6c5;
+    --gray-300: #9ea0b3;
+    --gray-400: #878aa2;
+    --gray-500: #717490;
+    --gray-600: #5a5e7f;
+    --gray-700: #44486d;
+    --gray-800: #3c3f60;
+    --gray-900: #343753;
+    --content-padding:#{$panelContentPadding};
+    --inline-spacing:#{$inlineSpacing};
+    --border-radius:#{$borderRadius};
+    --surface-ground:linear-gradient(180deg, #F6F9FC 0%, #ECECF9 100%);
+    --surface-section:#ffffff;
+    --surface-card:#ffffff;
+    --surface-overlay:#ffffff;
+    --surface-border:rgba(68, 72, 109, 0.2);
+    --surface-hover:rgba(68, 72, 109, 0.07);
+    --focus-ring: #{$focusShadow};
+    --maskbg: #{$maskBg};
+    --highlight-bg: #{$highlightBg};
+    --highlight-text-color: #{$highlightTextColor};
+    color-scheme: light;
+}
