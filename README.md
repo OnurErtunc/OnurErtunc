@@ -1,12 +1,8 @@
 ### Hello there 👋
 
-I am Onur Ertunc, recently graduated from Bilkent University Department of Computer Engineering. I have a passion for technology and  and have developed a strong interest in software development, as well as a growing curiosity about computer architecture. I am also keen to explore the fields of Artificial Intelligence and Machine Learning.
+I am Onur Ertunc, - a software engineer graduated from Bilkent University Department of Computer Engineering and currently doing my masters degree in Czech Technical University in Prague, at the Faculty of Information Technology, with the specialization of Computer Systems and Networks.
 
-During my studies, I had the privilege of working part-time as a Software Engineer at BITES from July 2022 to June 2023. During this period, I was fortunate to be involved in an intriguing project focused on Digital Twins, a technology that replicates physical objects or processes in the digital realm in a mathematical manner rather than visual representations. This experience provided me with valuable opportunities to refine my skills, gain practical knowledge in software development, and contribute to an exciting project.
-
-Throughout my academic and professional journey, I have had the opportunity to work with various technologies and frameworks. I have utilized React, employing both JavaScript and TypeScript, to develop responsive and interactive web applications. Additionally, I have a solid foundation in Java, Spring Boot, and SQL, which have allowed me to complete projects at Bilkent University. I have also dabbled in Google Cloud Computing foundations, exploring the potential of cloud computing in my work. Furthermore, I have gained hands-on experience with databases like PostgreSQL and InfluxDB, enabling me to efficiently store and manage data.
-
-Currently I'm working at PoolText Inc. as software engineer.
+During my studies, I had the privilege of working part-time as a Software Engineer at BITES from July 2022 to June 2023. During this period, I was fortunate to be involved in an intriguing project focused on Digital Twins, a technology that replicates physical objects or processes in the digital realm in a mathematical manner rather than visual representations. This experience provided me with valuable opportunities to refine my skills, gain practical knowledge in software development, and contribute to an exciting project. Then, I joined to PoolText Inc as student engineer and become full time software engineer after my graduation.
 
 You can also check my activities in GitLab, and LinkedIn via the links provided in my bio.
 
